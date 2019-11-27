@@ -1,3 +1,0 @@
-add read
-update!
-update again！
